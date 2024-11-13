@@ -1,0 +1,24 @@
+Question,Answer
+What are the symptoms of Diabetes?,"Disease: Diabetes
+Symptoms: Increased thirst, frequent urination, fatigue
+
+**Disclaimer:** This information is intended for informational purposes only and does not constitute medical advice. Always seek the advice of a qualified healthcare professional for any questions you may have regarding a medical condition. Do not rely on this information for self-diagnosis or treatment.
+"
+How can Hypertension be treated?,"Disease: Hypertension
+Treatment: Lifestyle changes, antihypertensive drugs
+
+**Disclaimer:** This information is intended for educational purposes only and should not be considered medical advice.  Always consult with a qualified healthcare professional for diagnosis and treatment of any health condition.  Do not rely solely on information provided by this AI bot.
+"
+"A patient has symptoms which includes Wheezing and shortness of breath, what is/are possible disease for such symptoms. Also give possible treatments.A patient has Fever. What disease it may have?","1->""Disease"": Asthma || ""Symptoms"": Wheezing, shortness of breath, chest tightness || ""Possible Treatments"": Inhalers, bronchodilators, corticosteroids
+
+2->""Disease"": COVID-19 || ""Symptoms"": Fever, cough, loss of taste/smell, difficulty breathing || ""Possible Treatments"": Supportive care, antiviral meds, vaccines
+
+3->""Disease"": Influenza (Flu) || ""Symptoms"": Fever, chills, sore throat, runny nose, body aches || ""Possible Treatments"": Rest, fluids, antiviral medications
+
+4->""Disease"": Pneumonia || ""Symptoms"": Fever, cough, difficulty breathing, chest pain || ""Possible Treatments"": Antibiotics (bacterial), supportive care
+
+5->""Disease"": Lupus || ""Symptoms"": Joint pain, fatigue, skin rashes, fever || ""Possible Treatments"": Anti-inflammatory drugs, immune suppressants
+
+
+Disclaimer: This information is intended for informational purposes only and does not constitute medical advice.  It is essential to consult with a qualified healthcare professional for any health concerns or before making any decisions related to your health or treatment.
+"
